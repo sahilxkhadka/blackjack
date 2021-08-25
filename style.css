@@ -91,4 +91,7 @@ p{
     .menu-container {
         font-size: 2rem;
     }
+    #game-section button {
+        font-size: 1.5rem;
+    }
 }
