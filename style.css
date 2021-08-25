@@ -58,6 +58,12 @@ button:hover{
     font-weight: 600;
     color: goldenrod;
     text-transform: uppercase;
+    background-image: url(images/download__2_-removebg-preview.png);
+    background-size: fill;
+    background-repeat: none;
+    background-position: right;
+    background-repeat: no-repeat;
+}
 }
 p{
     font-size: 3rem;
